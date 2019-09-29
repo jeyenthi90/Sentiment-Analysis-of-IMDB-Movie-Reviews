@@ -19,6 +19,10 @@ Steps Followed:
   
   Various techniques: Logistic Regression, Naive Bayes and Support Vector Machines were tried to analyze data and evaluate the best perdictive power for Sentiment Analysis
   
-  Major Dependencies: NLTK, wordcloud and other library packages as listed in Python Notebook 
+  Major Dependencies: 
+    NLTK, wordcloud and other library packages as listed in Python Notebook 
+    
+    One jpg image file for creation of WordCloud if necessary
+  
   
   
