@@ -21,7 +21,6 @@ Steps Followed:
   
   Major Dependencies: 
     NLTK, wordcloud and other library packages as listed in Python Notebook 
-    
     One jpg image file for creation of WordCloud if necessary
   
   
